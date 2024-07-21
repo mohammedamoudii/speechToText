@@ -20,14 +20,14 @@ This web application uses the Web Speech API to convert spoken words into text. 
 1.Click the "Start Recording" button to begin capturing your speech.
 2.The transcript will be displayed in real-time, showing both interim and final results.
 
-![start recording page with save button ](url-to-image)
+![start recording page with save button ](SpeechToText/recordingImage.png)
 
 
 ###Save Transcript:
 1.Once you're done recording, click the "Save" button to store the final transcript in the database.
 
 
-![Confirmation Image](url-to-image)
+![Confirmation Image](SpeechToText/ConfirmationImage.png)
 ##Browser Compatibility
 This application uses the Web Speech API, which is currently supported in Google Chrome
 
